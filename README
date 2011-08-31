@@ -1,0 +1,4 @@
+Please specify the port and the directory that has html files when you execute this program.
+usage:
+$ java org.kodama.socket_connection.MultiWebServer 80 /foo/bar/htdocs
+
